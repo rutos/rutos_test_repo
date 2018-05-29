@@ -1,1 +1,4 @@
 add history after "git add"
+
+1. 1st work : a
+3. 1st work : b
