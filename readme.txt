@@ -1,0 +1,1 @@
+committ 을 하고 나서 로컬에서 변화(notepad로)를 주었는데. text가 깨져서 sublime에서 다시 하였다.
